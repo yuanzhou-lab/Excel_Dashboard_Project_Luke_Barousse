@@ -13,6 +13,13 @@ Other columns include job countries, year and hourly salaries, job publishing pl
 
 The output is a dashboard showing aggregated information with three variables set up as a drop down list.
 
+Key take aways from this project:
+-Usage of the dynamic array in modern excel
+-Use of simple functions such as 'UNIQUE' 'SORT' on arrays
+-Use of aggregate functions such as 'FILTER' 'SUMPRODUCT' on arrays
+-Flexible usage of Boolean values in excel data analysis
+-Proper sheet protection treatment when collaborating with other team members
+
 Please see the attached file as result. The workbook and dashboard sheet is protected but needs NO password to open up the details.
 
 [Data_Jobs_Dashboard.xlsx](https://github.com/user-attachments/files/23292698/Data_Jobs_Dashboard.xlsx)
